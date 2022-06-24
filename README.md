@@ -1,3 +1,3 @@
 ## GITHUB PAGE
 
-🌐 [Open Here](https://)
+🌐 [Open Here](https://roqeebyusuff.github.io/js_intro/)
